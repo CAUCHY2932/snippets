@@ -1,0 +1,41 @@
+#+title: snippets
+#+author: aaron
+#+date: <2020-12-27 Sun 02:08>
+
+* snippets
+
+code snippets
+
+
+** for learn 
+
+** for reduce workload
+
+** for etc
+
+** tree
+
+#+begin_src
+.
+├── LICENSE
+├── README.org
+├── c
+│   └── README.org
+├── emacs
+│   └── emacs
+├── git
+│   ├── gitignore_basic
+│   ├── gitignore_c
+│   └── gitignore_python
+├── go
+│   └── README.org
+├── python
+│   └── README.org
+├── shell
+│   ├── README.org
+│   └── common_use.sh
+└── vim
+    ├── README.html
+    ├── vimrc
+    └── vimrc_basic
+#+end_src

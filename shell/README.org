@@ -1,0 +1,16 @@
+#+title: vimrc intro
+#+author: aaron
+#+date: <2020-12-27 Sun 01:43>
+
+* vimrc
+
+clone from github
+
+search keyword with "vim github"
+
+the site is =https://github.com/amix/vimrc=
+
+* vimrc basic
+
+the config is collect from site, can be used.
+

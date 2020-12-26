@@ -1,0 +1,17 @@
+#+title: git
+#+author: aaron
+#+date: <2020-12-27 Sun 02:08>
+
+* git
+
+** git commit concept
+
+*** git cz
+
+https://github.com/commitizen/cz-cli
+
+*** liaoxuefeng
+
+https://www.liaoxuefeng.com/wiki/896043488029600
+
+

@@ -1,0 +1,15 @@
+#+title: snippets
+#+author: aaron
+#+date: <2020-12-27 Sun 02:08>
+
+* snippets
+
+code snippets
+
+
+** for learn 
+
+** for reduce workload
+
+** for etc
+

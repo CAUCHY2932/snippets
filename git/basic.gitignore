@@ -1,0 +1,12 @@
+# cache
+.cache
+.tmp
+.swap
+
+# idea
+.idea
+
+# vscode
+.vscode
+
+
