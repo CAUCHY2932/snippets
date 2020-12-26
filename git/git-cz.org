@@ -1,0 +1,7 @@
+#+title: git cz
+#+author: aaron
+#+date: <2020-12-27 Sun 02:36>
+
+** git cz
+
+git cz to commit msg
