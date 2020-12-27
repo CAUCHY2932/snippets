@@ -1,0 +1,22 @@
+#+TITLE: other
+#+author: aaron
+#+date: <2020-12-27 Sun 17:02>
+
+
+** RosettaCode
+
+一个网站，将同样一段代码，使用不同的语言实现
+
+http://rosettacode.org/wiki/Rosetta_Code
+
+很值得学习
+
+** 表格存储
+
+建议使用 csv 存储，使用 vscode 的 execl viewer 插件渲染
+
+** 想法
+
+远期的执行计划，通过博客的方式更新，结合 todo 进行学习
+
+

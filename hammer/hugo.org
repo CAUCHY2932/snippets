@@ -1,0 +1,36 @@
+#+title: hugo
+#+author: aaron
+#+date: <2020-12-27 Sun 12:54>
+
+** official website
+
+https://www.gohugo.org
+
+** themes recommend
+
+https://skyao.io/learning-hugo/theme/material-docs.html
+
+*** docsy
+
+
+https://github.com/google/docsy
+
+*** docsy
+git clone --recurse-submodules --depth 1 https://github.com/google/docsy.git
+
+*** CodeIT
+
+https://github.com/topics/gohugo-theme
+
+https://github.com/sunt-programator/CodeIT
+
+** hugo bin
+
+hugo with extended and hugo is different
+
+should down hugo with extended
+npm install -g postcss-cli
+
+
+文件不要为空
+
